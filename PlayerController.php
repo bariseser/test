@@ -2,7 +2,7 @@
 
 class PlayerController {
 	
-	public function index(){
-	
+	public function index(ApiService $apiService){
+		$this->apiService = $apiService;
 	}
 }
