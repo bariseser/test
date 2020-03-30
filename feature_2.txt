@@ -1,1 +1,3 @@
 feature_2 commit 1
+
+feature_3 commit 1
